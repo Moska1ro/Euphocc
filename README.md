@@ -1,4 +1,4 @@
-### Hi there 👋
+### Really lucky to meet U here.
 
 <!--
 **Euphocc/Euphocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
