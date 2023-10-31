@@ -1,6 +1,6 @@
-### The language I worked with:
+### The frames or languages I worked with:
 
-![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/Java-orange?logo=intellijidea&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/PyTorch-blue?logo=pytorch&logoColor=%23EE4C2C)
+![Static Badge](https://img.shields.io/badge/Vue.js-gray?logo=vuedotjs&logoColor=%234FC08D)
+![Static Badge](https://img.shields.io/badge/SpringBoot-white?logo=springboot&logoColor=%236DB33F)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus&logoColor=%2300599C)
