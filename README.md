@@ -1,4 +1,4 @@
-## Euphocc's profile
+## Moska1ro's profile
 ### The frames or languages I worked with recently:
 
 ![Static Badge](https://img.shields.io/badge/PyTorch-orange?logo=pytorch&logoColor=FFFFFF)
